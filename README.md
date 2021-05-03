@@ -16,4 +16,10 @@
   </p>
 </p>
 
-## Features
+## MAIN Features
+- Player Skin Changed (Lilium, Shin, Echo)
+- Venge Logo Changed
+- Kill Streaks Changed
+- Venge Flag Changed
+- Special Offer Changed
+MORE UPDATES COMING SOON
