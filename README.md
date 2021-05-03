@@ -1,6 +1,6 @@
 # Neon-Mod
 <p align="center" style="margin-bottom: 0px !important;">
-  < alt="NEON MOD - Made by DezGG" align="center">
+  <img width="200" src="https://media.discordapp.net/attachments/822680675630579712/825161597977886775/vWeeb--Icon.png" alt="NEON MOD - Made by DezGG" align="center">
 </p>
 
 <h1 align="center" style="margin-top: 0px;">NEON MOD</h1>
