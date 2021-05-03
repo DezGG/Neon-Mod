@@ -22,4 +22,4 @@
 - Kill Streaks Changed
 - Venge Flag Changed
 - Special Offer Changed
-MORE UPDATES COMING SOON
+- MORE UPDATES COMING SOON
