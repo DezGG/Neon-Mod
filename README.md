@@ -1,6 +1,6 @@
 # Neon-Mod
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://pasteboard.co/K083GuY.png" alt="NEON MOD - Made by DezGG" align="center">
+  <img width="200" src="https://pasteboard.co/K088aNK.png" alt="NEON MOD - Made by DezGG" align="center">
 </p>
 
 <h1 align="center" style="margin-top: 0px;">NEON MOD</h1>
