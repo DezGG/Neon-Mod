@@ -8,7 +8,7 @@
  <p align="center">
     An colored/street themed mod that gives you artistic/street vibes.
     <br />
-    <a href="https://github.com/DezGG/Neon-Mod/releases/latest/download/NeonMod.zip">Download</a>
+    <a href="https://github.com/DezGG/Neon-Mod/releases/latest/download/Neon.Mod.zip">Download</a>
     ·
     <img alt="Total Downloads" src="https://img.shields.io/github/downloads/dezgg/Neon-Mod/total?label=Downloads">
     ·
